@@ -19,11 +19,10 @@ This page demonstrates a widget-based teaching page leveraging Python to teach m
 
 To see the examples  {fa}`rocket` --> {guilabel}`Live Code` button above on this page, and run the code below.
 
-
 ```{code-cell} ipython3
 :tags: [hide-input, thebe-init]
 
-from code.gates import *
+from backend_code.gates import *
 from operator import *
 from IPython.display import display
 ```
