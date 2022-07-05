@@ -23,7 +23,7 @@ To see the examples  {fa}`rocket` --> {guilabel}`Live Code` button above on this
 ```{code-cell} ipython3
 :tags: [hide-input, thebe-init]
 
-from gates import *
+from code.gates import *
 from operator import *
 from IPython.display import display
 ```
