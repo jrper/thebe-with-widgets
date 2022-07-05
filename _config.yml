@@ -28,7 +28,7 @@ html:
 repository:
   url: https://github.com/jrper/thebe-with-widgets
   branch: main
-  path_to_book: notebook
+  path_to_book: ./
 
 launch_buttons:
   notebook_interface: "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
